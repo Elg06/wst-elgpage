@@ -1,0 +1,74 @@
+body{
+    background-size: cover;
+    min-height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#panel panel-default{
+	text-align: center;
+}
+.bg-dark{
+	background-color: rgb(19,55,72);
+}
+.h1{
+	font-family: "cursive" sans-serif;
+}
+.navbar-brand h1{
+	color:white;
+	text-shadow: 1px 1px 1px black;
+
+
+
+}
+.nav-item:hover{
+    border-radius: 20px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.navbar-brand :hover{
+    color: rgb(255, 136, 0);
+}
+#bg-light {
+    background-color:red;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+.jumbotron .col-lg-12 .text-center {
+	 border-radius: 0 30px 0 30px; 
+	 padding: 10px;">
+}
+.about-profile h1{
+	color: white;
+	font-size: 40px;
+	font-family:"Garamond", serif;
+
+}
+.about-profile h3{
+	color: rgba(251, 191, 11, 1);
+	font-family:"Monaco", monospace;
+}
+.about-profile p{
+	color: white;
+	font-style: italic;
+	
+}
+.My-skills h1{
+	font-size: 55px;
+	
+	
+}
+.col-lg-4 h2{
+	color: white;
+}
+.navbar-nav a:hover {
+	left: 0px;
+	transform:translateY(5px);
+}
+.fa-skype{
+	background: #00aff0;
+	color: white;
+}
+.p2-container{
+ text-align: center ;
+}
